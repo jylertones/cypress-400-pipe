@@ -1,0 +1,17 @@
+{
+  "name": "cypress-400-pipe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^3.6.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "server": "node ./index.js",
+    "cypress": "cypress run"
+  },
+  "author": "Tyler Jones",
+  "license": "MIT"
+}
